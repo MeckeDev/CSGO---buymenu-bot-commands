@@ -9,14 +9,14 @@ Instead of telling a Bot he is useless, you could make a "Full Buy"
 
 I press "Z" and "1" on my Keyboard and i instantly get:
 
-AK/M4
-Desert Eagle
-Flash
-HE
-Molotov/Incendiary
-Smoke
-Vest/Helmet
-Defuse Kit
+	AK/M4
+	Desert Eagle
+	Flash
+	HE
+	Molotov/Incendiary
+	Smoke
+	Vest/Helmet
+	Defuse Kit
 
 # How to install
 
